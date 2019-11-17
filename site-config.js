@@ -1,27 +1,27 @@
 module.exports = {
   // App Info
-  appstore_link         : "https://imedadel.me",                                  // Enter App Store URL.
-  playstore_link        : "https://imedadel.me",                                  // Enter Google Play Store URL.
-  google_analytics_ID   : "UA-47311644-5",                                        // Enter Google Analytics ID or ""
-  presskit_download_link: "https://imedadel.me",                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+  appstore_link         : "https://drive.google.com",                                  // Enter App Store URL.
+  playstore_link        : "https://drive.google.com",                                  // Enter Google Play Store URL.
+  google_analytics_ID   : "",                                        // Enter Google Analytics ID or ""
+  presskit_download_link: "https://drive.google.com",                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
   video_or_screenshot   : "screenshot",                                           // "screenshot" or "video"
-  app_url               : "https://agalp.imedadel.me",                            // Domain of your website without path_prefix.
+  app_url               : "",                            // Domain of your website without path_prefix.
   path_prefix           : "/",                                                    // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
-  app_name              : "AGALP",
+  app_name              : "Puzzle WebAR",
   app_price             : "Free",
   app_description       : "Automatically generate GatsbyJS app landing pages.",
   app_keywords          : ["automatic", "gatsbyjs", "app", "landing page"],
 
   // Personal Info
-  your_name              : "Imed Adel",
-  your_link              : "https://imedadel.me",
-  your_city              : "Sousse",
-  email_address          : "hello@imedadel.me",
+  your_name              : "Taufich Rizqi F",
+  your_link              : "https://suwung.inc.github.io",
+  your_city              : "Semarang",
+  email_address          : "suwung-inc@gmail.com",
   linkedin_username      : null,
   facebook_username      : null,
-  instagram_username     : "ed_adel",
-  twitter_username       : "Imed_Adel",
-  github_username        : "ImedAdel",
+  instagram_username     : "",
+  twitter_username       : "",
+  github_username        : "suwung-inc",
   youtube_username       : null,
 
   // Features List
